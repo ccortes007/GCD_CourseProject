@@ -129,7 +129,7 @@ freqBodyGyroJerkMag_std
 # 3) Transformations or work performed to clean up the data
 # ===========================================================
 # Notes: 
-# a) The script ProjectGCD.R must be in the "[YourDirectoryOption]/getdata_projectfiles_UCI HAR Dataset/UCI HAR Dataset" to work
+# a) The script run_analysis.R must be in the "[YourDirectoryOption]/getdata_projectfiles_UCI HAR Dataset/UCI HAR Dataset" to work
 # b) This is an example of what I used: setwd("C:/Cousera_GCD/getdata_projectfiles_UCI HAR Dataset/UCI HAR Dataset") 
 #
 # Procedure: 
